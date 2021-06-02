@@ -1,3 +1,3 @@
 # JavaBoardGames
-BattleShip, Tic-Tac-Toe, Hangman\n
+BattleShip, Tic-Tac-Toe, Hangman
 Some games made to a college activity
